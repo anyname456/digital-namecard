@@ -1,12 +1,12 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Dinesh;G;;;
+N:LC Graphic;Dinesh;;;
 FN: Dinesh Gunasekaran 
-ORG:LG Graphic;
+ORG:LG Graphic SDN BHD;
 TITLE:Sales Manager
 EMAIL;type=INTERNET;type=WORK;type=pref:dineshguna92@gmail.com
-TEL;type=WORK;type=VOICE:+65 9123 4567
+TEL;type=WORK;type=VOICE:+6016 3188 332
 item1.ADR;type=WORK;type=pref:;;,;;;;
 item1.X-ABADR:sg
 item2.URL;type=pref:
